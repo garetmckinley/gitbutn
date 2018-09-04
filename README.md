@@ -23,13 +23,22 @@
 
 ## Hint:
 >Info:  
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=info)](#)
+
+[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=info)](#)
+
 >Warning:  
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=warning)](#)
+
+[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=warning)](#)
+
 >Danger:  
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=danger)](#)
+
+[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=danger)](#)
+
 >Success:  
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=success)](#)
+
+[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=success)](#)
 
 
-> You can add any icon and text and color you want and just call it :)
+>
+> You can add any icons , text and colors you want and just call it :)
+>
