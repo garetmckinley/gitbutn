@@ -17,18 +17,18 @@
 
 
 ## Flags:
-[![alt gitbutn](https://img.gitbutn.io/flag/?&flag=developer&bgc=4286f4)](#) 
-[![alt gitbutn](https://img.gitbutn.io/flag/?&flag=new&bgc=2aba85)](#) 
-[![alt gitbutn](https://img.gitbutn.io/flag/?&flag=hello%20world%20and%20world%20says%20hello%20back&bgc=c14f3f)](#)
+[![alt gitbutn](https://img.gitbutn.io/flags/?&flag=developer&bgc=4286f4)](#) 
+[![alt gitbutn](https://img.gitbutn.io/flags/?&flag=new&bgc=2aba85)](#) 
+[![alt gitbutn](https://img.gitbutn.io/flags/?&flag=hello%20world%20and%20world%20says%20hello%20back&bgc=c14f3f)](#)
 
 ## Hint:
 >Info:  
 [![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=info)](#)
->Warning:
+>Warning:  
 [![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=warning)](#)
->Danger:
+>Danger:  
 [![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=danger)](#)
->Success:
+>Success:  
 [![alt gitbutn](https://img.gitbutn.io/hint/?txt=add%20here%20any%20thing%20....&type=success)](#)
 
 
