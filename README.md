@@ -38,6 +38,16 @@
 
 [![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=success)](#)
 
+## Small Buttons:
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=github2&ic=ffffff&bgc=222222)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=twitter&ic=fff&bgc=79a5d2)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=patreon&ic=fff&bgc=e8715c)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=python&ic=f8d561&bgc=2d5086)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=git&ic=ffffff&bgc=df6045)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=react&ic=ffffff&bgc=40b3bf)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=yarn&ic=ffffff&bgc=4386b2)](#)
+[![alt gitbutn](https://img.gitbutn.io/btn/?&icon=npm&ic=bb433d&bgc=f2f2f2)](#)
+> and more ...
 
 >
 > You can add any icons , text and colors you want and just call it :)
