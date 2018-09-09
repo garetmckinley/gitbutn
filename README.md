@@ -21,22 +21,10 @@
 [![alt gitbutn](https://img.gitbutn.io/flag/?&flag=new&bgc=2aba85)](#) 
 [![alt gitbutn](https://img.gitbutn.io/flag/?&flag=hello%20world%20and%20world%20says%20hello%20back&bgc=c14f3f)](#)
 
-## Hint:
->Info:  
+## Hints:
+> Types of hints: [ info | warning | danger | success ]  
 
-![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=info)
-
->Warning:  
-
-![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=warning)
-
->Danger:  
-
-![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=danger)
-
->Success:  
-
-![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=success)
+![Gitbutn hint](https://img.gitbutn.io/hint/?txt=you%20can%20add%20any%20text&type=info) ![Gitbutn hint](https://img.gitbutn.io/hint/?txt=you%20can%20add%20any%20text&type=warning) ![Gitbutn hint](https://img.gitbutn.io/hint/?txt=you%20can%20add%20any%20text&type=danger) ![Gitbutn hint](https://img.gitbutn.io/hint/?txt=you%20can%20add%20any%20text&type=success)
 
 ## Small Buttons:
 [![alt gitbutn](https://img.gitbutn.io/btn/?&icon=github2&ico=ffffff&bgc=222222)](#)
