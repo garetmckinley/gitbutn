@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://u.gitbutn.io/zvM3JQMgZ" />
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">
+    <img src="https://u.gitbutn.io/zvM3JQMgZ" />
+  </a>
 <p>
 
 # DEDICATED TO THE PUBLIC DOMAIN
-Gitbutn.io has been dedicated to the public domain. It is protected by the Creative Commons CC0 Universal Public Domain Dedication license. You can read the entire license below or at http://creativecommons.org/publicdomain/zero/1.0/deed.en.
+Gitbutn.io has been dedicated to the public domain. It is protected by the Creative Commons CC0 Universal Public Domain Dedication license. You can read the entire license below or at https://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 # CC0 UNIVERSAL PUBLIC DOMAIN DEDICATION LICENSE
 ## Statement of Purpose
