@@ -3,6 +3,7 @@
   <a href="https://gitbutn.io" target="_blank">
     <img src="https://img.gitbutn.io/logo/svg" width="350"/>
   </a>
+  <br />
   <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank">
     <img src="https://u.gitbutn.io/zvM3JQMgZ" />
   </a>
