@@ -24,19 +24,19 @@
 ## Hint:
 >Info:  
 
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=info)](#)
+![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=info)
 
 >Warning:  
 
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=warning)](#)
+![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=warning)
 
 >Danger:  
 
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=danger)](#)
+![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=danger)
 
 >Success:  
 
-[![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=success)](#)
+![alt gitbutn](https://img.gitbutn.io/hint/?txt=your%20text%20here....&type=success)
 
 ## Small Buttons:
 [![alt gitbutn](https://img.gitbutn.io/btn/?&icon=github2&ico=ffffff&bgc=222222)](#)
