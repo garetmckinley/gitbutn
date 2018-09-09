@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank">
     <img src="https://u.gitbutn.io/zvM3JQMgZ" />
   </a>
 <p>
